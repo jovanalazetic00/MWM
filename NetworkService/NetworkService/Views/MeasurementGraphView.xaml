@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="NetworkService.Views.MeasurementGraphView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NetworkService.Views"
+             xmlns:viewModel="clr-namespace:NetworkService.ViewModel"
+             xmlns:data="clr-namespace:NetworkService.Model"
+                          xmlns:vml="clr-namespace:NetworkService.VML"
+             vml:ViewModelLocator.AutoHookedUpViewModel="True"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Background="Pink">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="350"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Label Margin="10 45 0 0" Content="5.0" FontSize="13" FontWeight="Bold" Foreground="White"/>
+            <Label Margin="10 70 0 0" Content="4.5" FontSize="13" FontWeight="Bold" Foreground="White"/>
+            <Label Margin="10 95 0 0" Content="4.0" FontSize="13" FontWeight="Bold" Foreground="White"/>
+            <Label Margin="10 120 0 0" Content="3.5" FontSize="13" FontWeight="Bold" Foreground="White"/>
+            <Label Margin="10 145 0 0" Content="3.0" FontSize="13" FontWeight="Bold" Foreground="White"/>
+            <Label Margin="10 170 0 0" Content="2.5" FontSize="13" FontWeight="Bold" Foreground="White"/>
+            <Label Margin="10 195 0 0" Content="2.0" FontSize="13" FontWeight="Bold" Foreground="White"/>
+            <Label Margin="10 220 0 0" Content="1.5" FontSize="13" FontWeight="Bold" Foreground="White"/>
+            <Label Margin="10 245 0 0" Content="1.0" FontSize="13" FontWeight="Bold" Foreground="White"/>
+            <Label Margin="10 270 0 0" Content="0.5" FontSize="13" FontWeight="Bold" Foreground="White"/>
+            <Label Margin="10 295 0 0" Content="0.0" FontSize="13" FontWeight="Bold" Foreground="White"/>
+
+            <Canvas Margin="50,45,5,5" Background="White">
+                <Rectangle Height="{Binding H1, UpdateSourceTrigger=PropertyChanged}" Fill="{Binding C1, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Bottom" Canvas.Left="75" Canvas.Bottom="35" Width="25"/>
+                <Rectangle Height="{Binding H2, UpdateSourceTrigger=PropertyChanged}" Fill="{Binding C2, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Bottom" Canvas.Left="230" Canvas.Bottom="35" Width="25"/>
+                <Rectangle Height="{Binding H3, UpdateSourceTrigger=PropertyChanged}" Fill="{Binding C3, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Bottom" Canvas.Left="380" Canvas.Bottom="35" Width="25"/>
+                <Rectangle Height="{Binding H4, UpdateSourceTrigger=PropertyChanged}" Fill="{Binding C4, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Bottom" Canvas.Left="530" Canvas.Bottom="35" Width="25"/>
+                <Rectangle Height="{Binding H5, UpdateSourceTrigger=PropertyChanged}" Fill="{Binding C5, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Bottom" Canvas.Left="670" Canvas.Bottom="35" Width="25"/>
+            </Canvas>
+            <Label Margin="100 310 0 0" Content="{Binding D1, UpdateSourceTrigger=PropertyChanged}" FontSize="8" FontWeight="Bold"/>
+            <Label Margin="250 310 0 0" Content="{Binding D2, UpdateSourceTrigger=PropertyChanged}" FontSize="8" FontWeight="Bold"/>
+            <Label Margin="400 310 0 0" Content="{Binding D3, UpdateSourceTrigger=PropertyChanged}" FontSize="8" FontWeight="Bold"/>
+            <Label Margin="550 310 0 0" Content="{Binding D4, UpdateSourceTrigger=PropertyChanged}" FontSize="8" FontWeight="Bold"/>
+            <Label Margin="690 310 0 0" Content="{Binding D5, UpdateSourceTrigger=PropertyChanged}" FontSize="8" FontWeight="Bold"/>
+        </Grid>
+        <Grid Grid.Row="1"/>
+        <ComboBox ItemsSource="{Binding List}" SelectedItem="{Binding SelectedListItem}" Margin="97,10,516,313"/>
+        <Button Command="{Binding ShowGraph}" Margin="500,10,225,313" ToolTip="Iscrtajte grafikone za odabrani entitet" ToolTipService.ShowDuration="5000" Content="Show"/>
+    </Grid>
+</UserControl>

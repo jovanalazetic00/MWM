@@ -1,0 +1,101 @@
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Home PC\Desktop\Anja HCI\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\Anja\Anja\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\Desktop\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Jovana projekat22\Jovana projekat\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
